@@ -28,3 +28,4 @@ print("Ringi pindala", round(S,2))
 C=2*pi*r
 print("Ringjoone pikkus", round(C,2))
 
+# ghh
